@@ -68,4 +68,13 @@
             src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github"
             width="40" height="40" /> </a>        
 </p>
+ 
+   <h3 align="left">Task management</h3>
+              <a href="https://www.atlassian.com/software/jira" target="_blank"
+        rel="noreferrer"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira"
+            width="40" height="40" /> </a> 
+            
+</p>
+  
   
