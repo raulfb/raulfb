@@ -46,9 +46,10 @@
 
 ---
 
-### CMS
+### CMS & ERP
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
 ---
 
@@ -56,3 +57,4 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Zitadel](https://img.shields.io/badge/Zitadel-FF6B35?style=for-the-badge&logo=zitadel&logoColor=white)
