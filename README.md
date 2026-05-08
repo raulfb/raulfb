@@ -60,4 +60,9 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### Auth & Security
+
 ![Zitadel](https://img.shields.io/badge/Zitadel-FF6B35?style=for-the-badge&logo=zitadel&logoColor=white)
